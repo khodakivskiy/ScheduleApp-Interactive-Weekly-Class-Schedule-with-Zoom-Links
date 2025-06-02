@@ -11,7 +11,7 @@
 
 ## Technologies
 
-- C# (.NET 6/7)
+- C# (.NET 8)
 - WPF (Windows Presentation Foundation)
 - `System.Diagnostics.Process` for opening URLs
 - Visual Studio for development
