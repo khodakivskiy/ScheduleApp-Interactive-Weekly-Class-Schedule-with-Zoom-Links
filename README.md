@@ -8,6 +8,8 @@
 - Basic error handling for URL opening failures.
 
 ---
+![image](https://github.com/user-attachments/assets/aa8c87e4-9868-4847-92fb-4d0da204a6e2)
+
 
 ## Technologies
 
